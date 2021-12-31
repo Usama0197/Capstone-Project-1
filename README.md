@@ -1,6 +1,6 @@
 # Capstone-Project-1
 
-## TITLE: Car Insurance Claims Prediction
+# TITLE: Car Insurance Claims Prediction
 
 #### Problem Statement
 The insurance claim is a basic problem in insurance companies. Insurance insurers always have a challenge to the growing of insurance claim loss. Because there is the occurrence of claim fraud and the volume of claim data increases in the insurance companies. As a result, it is difficult to classify the insured claim status during the claim review process. Therefore, the aims of the study was to build a machine learning model that classifies and make insurance claim status prediction in machine learning approach.
@@ -13,28 +13,3 @@ The classical machine learning tasks like Data Exploration, Data Cleaning, Featu
 
 #### Content
 The columns are resembling practical world features. The outcome column indicates 1 if a customer has claimed his/her loan else 0. The data has 19 features from there 18 of them are corresponding logs which were taken by the company.
-
-#### Features
-#### Input/Features
-1.ID
-2.AGE
-3.GENDER
-4.RACE
-5.DRIVING_EXPERIENCE
-6.EDUCATION
-7.INCOME
-8.CREDIT_SCORE
-9.VEHICLE_OWNERSHIP
-10.VEHICLE_YEAR
-11.MARRIED
-12.CHILDREN
-13.POSTAL_CODE
-14.ANNUAL_MILEAGE
-15.VEHICLE_TYPE
-16.SPEEDING_VIOLATIONS
-17.DUIS
-18.PAST_ACCIDENTS
-
-#### Output/Labels
-19.OUTCOME
-
